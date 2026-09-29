@@ -1,0 +1,14 @@
+{
+  "name": "squelette",
+  "displayName": "Squelette",
+  "version": "1.0.0",
+  "description": "Governance for AI-assisted projects: human decisions, controlled scope, proof of what was actually done. Teaches Claude to work inside a Squelette-governed repository, to review one, and to start a new one.",
+  "author": {
+    "name": "MINET Jeoffrey",
+    "url": "https://github.com/JyMinet"
+  },
+  "homepage": "https://github.com/JyMinet/squelette",
+  "repository": "https://github.com/JyMinet/squelette-plugin",
+  "license": "MIT",
+  "keywords": ["governance", "ai-agents", "human-in-the-loop", "project-control", "git", "evidence", "agents-md"]
+}

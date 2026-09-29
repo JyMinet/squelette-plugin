@@ -1,0 +1,15 @@
+{
+  "name": "squelette",
+  "description": "The Squelette plugin: governance for AI-assisted projects.",
+  "owner": {
+    "name": "MINET Jeoffrey",
+    "url": "https://github.com/JyMinet"
+  },
+  "plugins": [
+    {
+      "name": "squelette",
+      "source": "./",
+      "description": "Work inside, review, or start a Squelette-governed project."
+    }
+  ]
+}
